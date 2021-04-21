@@ -1,7 +1,7 @@
 # bar-della-scuola
 Repository con idee e suggerimenti per il bar della scuola
 
-# Suggerimenti
+# Suggerimenti (lato gestore bar)
 - aggiungere un'etichetta alla classe con il numero dell'aula (es. 5asa = 22)
 
 - non poter chiudere più di una volta: se una lista viene chiusa non deve esserci più il bottone chiudi
