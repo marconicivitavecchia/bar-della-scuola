@@ -2,21 +2,27 @@
 Repository con idee e suggerimenti per il bar della scuola
 
 # Suggerimenti
-poter aggiungere un etichetta alla classe con il numero della stessa (es. 5asa = 22)
+- aggiungere un'etichetta alla classe con il numero dell'aula (es. 5asa = 22)
 
-di non poterle chiudere piu di una volta (se una lista viene chiusa una seconda volta passa in coda)
+- non poter chiudere più di una volta: se una lista viene chiusa non deve esserci più il bottone chiudi
 
-le liste chiuse che siano le prime e non le ultime
+- le liste chiuse devono andare in testa (non in coda com'è attualmente)
 
-far venire una notifica ogni volta che una nuova lista appare (dispositivi mobili)
+- creare una notifica ogni volta che una nuova lista appare, su dispositivi mobili del bar (non tutti possono stare sul computer fisso)
 
-chat nella stessa pagina degli ordini
+- chat nella stessa pagina degli ordini, oppure il tasto chat in alto nella pagina ordini.php diventa rosso (o con pallino o numero)
 
-darci la possibilità di modificare/aggiungere/rimuovere la lista dei prodotti. 
+- analogamete, nella chat cambiare il tasto Home in modo da far vedere se ci sono nuovi ordini
 
-invece di aggiornare ogni volta la pagina dopo che si leva la disponibilità di un prodotto non aggiornare la pagina ma dare la possibilità di selezionarle piu cose e fare un "salva" alla fine.
+- nella pagina chat e ordini, mettere il numero di nuovi chat/ordini nel title
 
-levare i secondi dalla data chiusura ordini 
+- darci la possibilità di modificare/aggiungere/rimuovere la lista dei prodotti (es. prezzo, nuovi prodotti, descrizione, etc)
 
-aggiungere l'ora in cui la lista è arrivata.
+- barra di navigazione in alto fissa (il tasto home non scompare quando si scorre)
+ 
+- in questo momento, nella pagina "prodotti.php", quando si seleziona una casella viene ricaricata la pagina e torna all'inizio della pagina, rendendo difficile modificare più prodotti di seguito. Si potrebbe risolvere o mettendo un tasto salva vicino ad Home, oppure non aggiornando la pagina dopo ogni modifica.
+
+- levare i secondi dalla data chiusura ordini, appesantisce e occupa spazio senza dare aiuto
+
+- aggiungere l'ora nella colonna data di apertura, in modo da renderla uguale a quella di data di chiusura (senza secondi!)
 
